@@ -1,1 +1,1 @@
-# It1214-p
+===Project Description=== A simple Warehouse Inventory Management System using Java. You can add, remove, update, search, and view inventory items. ===How to Run== 1. Compile werehouse.java 2. run werehouse(java werehouse) ====sample output===== Warehouse Menu --- 1. Add Item 2. Remove Item 3. Update Quantity 4. Search Item 5. Display Items 6. Exit Choice: 1 ID: 1002 Name: desk Quantity: 10 Price: 2000 Item added!
